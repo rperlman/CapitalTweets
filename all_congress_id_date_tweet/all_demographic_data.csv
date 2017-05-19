@@ -1,0 +1,558 @@
+name,role,last_name,twitter_ID,state,party_affiliation,region,gender,age,religion
+Donald Trump,executive staff,Trump,realDonaldTrump,N/A,R,N/A,M,70,Protestant
+Steven Mnuchin,executive staff,Mnuchin,stevenmnuchin1,N/A,R,N/A,M,54,null
+Jeff Sessions,executive staff,Sessions,jeffsessions,N/A,R,N/A,M,70,Methodist
+Sonny Perdue,executive staff,Perdue,SecretarySonny,N/A,R,N/A,M,70,Baptist
+Ben Carson,executive staff,Carson,RealBenCarson,N/A,R,N/A,M,65,Protestant
+Rick Perry,executive staff,Perry,SecretaryPerry,N/A,R,N/A,M,67,Evangelical
+David Shulkin,executive staff,Shulkin,SecShulkin,N/A,null,N/A,M,57,null
+Ryan Zinke,executive staff,Zinke,SecretaryZinke,N/A,R,N/A,M,67,null
+Wilbur Ross,executive staff,Ross,SecretaryRoss,N/A,R,N/A,M,79,Jewish
+Tom Price,executive staff,Price,SecPriceMD,N/A,R,N/A,M,62,Presbyterian
+Elaine Chao,executive staff,Chao,SecElaineChao,N/A,R,N/A,F,64,Protestant
+Betsy DeVos,executive staff,DeVos,BetsyDeVos,N/A,R,N/A,F,59,Evangelical
+Reince Preibus,executive staff,Preibus,Reince,N/A,R,N/A,M,45,Greek Orthodox
+Scott Pruit,executive staff,Pruit,ScottPruittOK,N/A,R,N/A,M,48,Baptist
+Nikki Haley,executive staff,Haley,nikkihaley,N/A,R,N/A,F,45,Sikh
+Linda McMahon,executive staff,McMahon,Linda_McMahon,N/A,R,N/A,F,68,null
+Mike Pence,executive staff,Pence,mike_pence,N/A,R,N/A,M,57,Evangelical
+Richard Shelby,senator,Shelby,SenShelby,Alabama,R,South,M,82,Protestant
+Luther Strange,senator,Strange,lutherstrange,Alabama,R,South,M,64,Protestant
+Lisa Murkowski,senator,Murkowski,lisamurkowski,Alaska,R,West,F,59,Catholic
+Dan Sullivan,senator,Sullivan,SenDanSullivan,Alaska,R,West,M,52,Catholic
+Jeff Flake,senator,Flake,JeffFlake,Arizona,R,West,M,54,Mormon
+John McCain,senator,McCain,SenJohnMcCain,Arizona,R,West,M,80,Protestant
+John Boozman,senator,Boozman,JohnBoozman,Arkansas,R,South,M,66,Protestant
+Tom Cotton,senator,Cotton,SenTomCotton,Arkansas,R,South,M,39,Protestant
+Dianne Feinstein,senator,Feinstein,SenFeinstein,California,D,West,F,83,Jewish
+Kamala Harris,senator,Harris,SenKamalaHarris,California,D,West,F,52,Protestant
+Michael Bennet,senator,Bennet,SenBennetCO,Colorado,D,West,M,52,Unaffiliated
+Cory Gardner,senator,Gardner,SenCoryGardner,Colorado,R,West,M,42,Protestant
+Richard Blumenthal,senator,Blumenthal,SenBlumenthal,Connecticut,D,Northeast,M,71,Jewish
+Christopher Murphy,senator,Murphy,ChrisMurphyCT,Connecticut,D,Northeast,M,43,Protestant
+Tom Carper,senator,Carper,SenatorCarper,Delaware,D,South,M,70,Protestant
+Chris Coons,senator,Coons,ChrisCoons,Delaware,D,South,M,53,Protestant
+Bill Nelson,senator,Nelson,SenBillNelson,Florida,D,South,M,74,Protestant
+Marco Rubio,senator,Rubio,marcorubio,Florida,R,South,M,45,Catholic
+Johnny Isakson,senator,Isakson,SenatorIsakson,Georgia,D,South,M,72,Protestant
+David Perdue,senator,Perdue,sendavidperdue,Georgia,R,South,M,67,Protestant
+Mazie K. Hirono,senator,Hirono,maziehirono,Hawaii,R,West,F,69,Buddhist
+Brian Schatz,senator,Schatz,brianschatz,Hawaii,D,South,M,44,Jewish
+Mike Crapo,senator,Crapo,MikeCrapo,Idaho,R,West,M,65,Mormon
+Jim Risch,senator,Risch,SenatorRisch,Idaho,D,West,M,73,Catholic
+Tammy Duckworth,senator,Duckworth,SenDuckworth,Illinois,D,Midwest,F,49,Unaffiliated
+Dick Durbin,senator,Durbin,SenatorDurbin,Illinois,D,Midwest,M,72,Catholic
+Joe Donnelly,senator,Donnelly,SenDonnelly,Indiana,D,Midwest,M,61,Catholic
+Todd Young,senator,Todd Young,SenToddYoung,Indiana,R,Midwest,M,44,Protestant
+Joni Ernst,senator,Ernst,joniernst,Iowa,R,Midwest,F,46,Protestant
+Chuck Grassley,senator,Grassley,ChuckGrassley,Iowa,R,Midwest,M,83,Protestant
+Jerry Moran,senator,Moran,JerryMoran,Kansas,R,Midwest,M,62,Protestant
+Pat Roberts,senator,Roberts,SenPatRoberts,Kansas,R,Midwest,M,80,Protestant
+Mitch McConnell,senator,McConnell,SenateMajLdr,Kentucky,R,South,M,75,Protestant
+Rand Paul,senator,Paul,RandPaul,Kentucky,R,South,M,54,Protestant
+Bill Cassidy,senator,Cassidy,BillCassidy,Louisiana,R,South,M,59,Protestant
+John Neely Kennedy,senator,Kennedy,JohnKennedyLA,Louisiana,R,South,M,65,Protestant
+Susan Collins,senator,Collins,SenatorCollins,Maine,R,Northeast,F,64,Catholic
+Angus King,senator,King,SenAngusKing,Maine,I,Northeast,M,73,Protestant
+Ben Cardin,senator,Cardin,SenatorCardin,Maryland,D,South,M,73,Jewish
+Chris Van Hollen,senator,Van Hollen,ChrisVanHollen,Maryland,D,South,M,58,Protestant
+Ed Markey,senator,Markey,senmarkey,Massachusetts,D,Northeast,M,70,Catholic
+Elizabeth Warren,senator,Warren,SenWarren,Massachusetts,D,Northeast,F,67,Protestant
+Gary Peters,senator,Peters,SenGaryPeters,Michigan,D,Midwest,M,58,Protestant
+Debbie Stabenow,senator,Stabenow,SenStabenow,Michigan,D,Midwest,F,66,Protestant
+Al Franken,senator,Franken,SenFranken,Minnesota,D,Midwest,M,65,Jewish
+Amy Klobuchar,senator,Klobuchar,amyklobuchar,Minnesota,D,Midwest,F,56,Protestant
+Thad Cochran,senator,Cochran,SenThadCochran,Mississippi,R,South,M,79,Protestant
+Roger Wicker,senator,Wicker,SenatorWicker,Mississippi,R,South,M,65,Protestant
+Roy Blunt,senator,Blunt,RoyBlunt,Missouri,R,Midwest,M,67,Protestant
+Claire McCaskill,senator,McCaskill,clairecmc,Missouri,D,Midwest,F,63,Catholic
+Steve Daines,senator,Daines,SteveDaines,Montana,R,West,M,54,Protestant
+Jon Tester,senator,Tester,SenatorTester,Montana,D,West,M,60,Protestant
+Deb Fischer,senator,Fischer,SenatorFischer,Nebraska,R,West,F,66,Protestant
+Ben Sasse,senator,Sasse,BenSasse,Nebraska,R,West,M,45,Protestant
+Catherine Cortez Masto,senator,Cortez Masto,SenCortezMasto,Nevada,D,West,F,53,Catholic
+Dean Heller,senator,Heller,SenDeanHeller,Nevada,R,West,M,56,Mormon
+Maggie Hassan,senator,Hassan,SenatorHassan,New Hampshire,D,Northeast,F,59,Protestant
+Jeanne Shaheen,senator,Shaheen,SenatorShaheen,New Hampshire,D,Northeast,F,70,Protestant
+Cory Booker,senator,Booker,CoryBooker,New Jersey,D,Northeast,M,47,Protestant
+Bob Menendez,senator,Menendez,SenatorMenendez,New Jersey,D,Northeast,M,63,Catholic
+Martin Heinrich,senator,Heinrich,MartinHeinrich,New Mexico,D,West,M,45,Protestant
+Tom Udall,senator,Udall,SenatorTomUdall,New Mexico,D,West,M,68,Mormon
+Kirsten Gillibrand,senator,Gillibrand,SenGillibrand,New York,D,Northeast,F,50,Catholic
+Chuck Schumer,senator,Schumer,SenSchumer,New York,D,Northeast,M,66,Jewish
+Richard Burr,senator,Burr,SenatorBurr,North Carolina,R,South,M,61,Protestant
+Thom Tillis,senator,Tillis,ThomTillis,North Carolina,R,South,M,56,Catholic
+Heidi Heitkamp,senator,Heitkamp,SenatorHeitkamp,North Dakota,D,Midwest,F,61,Catholic
+John Hoeven,senator,Hoeven,SenJohnHoeven,North Dakota,R,Midwest,M,60,Catholic
+Sherrod Brown,senator,Brown,SenSherrodBrown,Ohio,D,Midwest,M,64,Protestant
+Rob Portman,senator,Portman,robportman,Ohio,R,Midwest,M,61,Protestant
+Jim Inhofe,senator,Inhofe,PattyMurray,Oklahoma,R,South,M,82,Protestant
+James Lankford,senator,Lankford,SenatorLankford,Oklahoma,R,South,M,49,Protestant
+Jeff Merkley,senator,Merkley,SenJeffMerkley,Oregon,D,West,M,60,Protestant
+Ron Wyden,senator,Wyden,RonWyden,Oregon,D,West,M,67,Jewish
+"Bob Casey, Jr.",senator,Casey,SenBobCasey,Pennsylvania,D,Northeast,M,57,Catholic
+Pat Toomey,senator,Toomey,SenToomey,Pennsylvania,R,Northeast,M,55,Catholic
+Jack Reed,senator,Reed,SenJackReed,Rhode Island,D,Northeast,M,67,Catholic
+Sheldon Whitehouse,senator,Whitehouse,SenWhitehouse,Rhode Island,D,Northeast,M,61,Protestant
+Lindsey Graham,senator,Graham,GrahamBlog,South Carolina,R,South,M,61,Protestant
+Tim Scott,senator,Scott,SenatorTimScott,South Carolina,R,South,M,51,Protestant
+Mike Rounds,senator,Rounds,SenatorRounds,South Dakota,R,Midwest,M,62,Catholic
+John Thune,senator,Thune,SenJohnThune,South Dakota,R,Midwest,M,56,Protestant
+Lamar Alexander,senator,Alexander,SenatorRounds,Tennessee,R,South,M,76,Protestant
+Bob Corker,senator,Corker,SenBobCorker,Tennessee,R,South,M,64,Protestant
+John Cornyn,senator,Cornyn,JohnCornyn,Texas,R,South,M,65,Protestant
+Ted Cruz,senator,Cruz,SenTedCruz,Texas,R,South,M,46,Protestant
+Orrin Hatch,senator,Hatch,senorrinhatch,Utah,R,West,M,83,Mormon
+Mike Lee,senator,Lee,SenMikeLee,Utah,R,West,M,45,Mormon
+Patrick Leahy,senator,Leahy,SenatorLeahy,Vermont,D,Northeast,M,77,Catholic
+Bernie Sanders,senator,Sanders,SenatorSanders,Vermont,I,Northeast,M,75,Jewish
+Tim Kaine,senator,Kaine,timkaine,Virginia,D,South,M,59,Catholic
+Mark Warner,senator,Warner,MarkWarner,Virginia,D,South,M,62,Protestant
+Maria Cantwell,senator,Cantwell,SenatorCantwell,Washington,D,West,F,58,Catholic
+Patty Murray,senator,Murray,PattyMurray,Washington,D,West,M,66,Protestant
+Shelley Moore Capito,senator,Capito,SenCapito,West Virginia,R,South,F,63,Protestant
+Joe Manchin,senator,Manchin,Sen_JoeManchin,West Virginia,D,South,M,69,Catholic
+Tammy Baldwin,senator,Baldwin,SenatorBaldwin,Wisconsin,D,Midwest,F,55,Unaffiliated
+Ron Johnson,senator,Ron Johnson,SenRonJohnson,Wisconsin,R,Midwest,M,62,Protestant
+John Barrasso,senator,Barrasso,SenJohnBarrasso,Wyoming,R,West,M,64,Protestant
+Mike Enzi,senator,Enzi,SenatorEnzi,Wyoming,R,West,M,73,Protestant
+Adam Smith,representative,"Smith, Adam",RepAdamSmith,Washington,D,West,M,52,Anglican/Episcopalian
+Andy Barr,representative,"Barr, Andy",RepAndyBarr,Kentucky,R,South,M,44,Anglican/Episcopalian
+Blake Farenthold,representative,"Farenthold, Blake",farenthold,Texas,R,South,M,56,Anglican/Episcopalian
+David McKinley,representative,"McKinley, David",RepMcKinley,West Virginia,R,South,M,70,Anglican/Episcopalian
+Don Young,representative,"Young, Don",repdonyoung,Alaska,R,West,M,84,Anglican/Episcopalian
+Frederica Wilson,representative,"Wilson, Frederica",RepWilson,Florida,D,South,F,75,Anglican/Episcopalian
+Greg Walden,representative,"Walden, Greg",repgregwalden,Oregon,R,West,M,60,Anglican/Episcopalian
+Ileana Ros-Lehtinen,representative,"Ros-Lehtinen, Ileana",RosLehtinen,Florida,R,South,F,65,Anglican/Episcopalian
+Jeb Hensarling,representative,"Hensarling, Jeb",RepHensarling,Texas,R,South,M,60,Anglican/Episcopalian
+Jim Cooper,representative,"Cooper, Jim",repjimcooper,Tennessee,D,South,M,63,Anglican/Episcopalian
+Julia Brownley,representative,"Brownley, Julia",JuliaBrownley26,California,D,West,F,65,Anglican/Episcopalian
+Kurt Schrader,representative,"Schrader, Kurt",RepSchrader,Oregon,D,West,M,66,Anglican/Episcopalian
+Louise Slaughter,representative,"Slaughter, Louise",louiseslaughter,New York,D,Northeast,F,88,Anglican/Episcopalian
+Mark Sanford,representative,"Sanford, Mark",RepSanfordSC,South Carolina,R,South,M,57,Anglican/Episcopalian
+Michael Burgess,representative,"Burgess, Michael",michaelcburgess,Texas,R,South,M,67,Anglican/Episcopalian
+Morgan Griffith,representative,"Griffith, Morgan",RepMGriffith,Virginia,R,South,M,59,Anglican/Episcopalian
+Peter J. Roskam,representative,"Roskam, Peter J.",PeterRoskam,Illinois,R,Midwest,M,56,Anglican/Episcopalian
+Robert J. Wittman,representative,"Wittman, Robert J.",none,Virginia,R,South,M,58,Anglican/Episcopalian
+Rodney Frelinghuysen,representative,"Frelinghuysen, Rodney",USRepRodney,New Jersey,R,Northeast,M,71,Anglican/Episcopalian
+Scott DesJarlais,representative,"DesJarlais, Scott",DesJarlaisTN04,Tennessee,R,South,M,53,Anglican/Episcopalian
+Scott Tipton,representative,"Tipton, Scott",RepTipton,Colorado,R,West,M,61,Anglican/Episcopalian
+Suzan DelBene,representative,"DelBene, Suzan",RepDelBene,Washington,D,West,F,55,Anglican/Episcopalian
+Tom Rice,representative,"Rice, Tom",RepTomRice,South Carolina,R,South,M,60,Anglican/Episcopalian
+Jason Smith,representative,"Smith, Jason",RepJasonSmith,Missouri,R,Midwest,M,37,Assemblies of God
+Donald McEachin,representative,"McEachin, A. Donald",RepMcEachin,Virginia,D,South,M,56,Baptist
+Al Green,representative,"Green, Al",RepAlGreen,Texas,D,South,M,70,Baptist
+Alma Adams,representative,"Adams, Alma",RepAdams,North Carolina,D,South,F,71,Baptist
+Austin Scott,representative,"Scott, Austin",AustinScottGA08,Georgia,R,South,M,48,Baptist
+Barbara Lee,representative,"Lee, Barbara",RepBarbaraLee,California,D,West,F,71,Baptist
+Bill Flores,representative,"Flores, Bill",RepBillFlores,Texas,R,South,M,63,Baptist
+Bonnie Watson Coleman,representative,"Watson Coleman, Bonnie",RepBonnie,New Jersey,D,Northeast,F,72,Baptist
+Brian Babin,representative,"Babin, Brian",RepBrianBabin,Texas,R,South,M,69,Baptist
+Bruce Westerman,representative,"Westerman, Bruce",RepWesterman,Arkansas,R,South,M,50,Baptist
+Cedric Richmond,representative,"Richmond, Cedric",RepRichmond,Louisiana,D,South,M,44,Baptist
+Daniel Webster,representative,"Webster, Daniel",RepWebster,Florida,R,South,M,68,Baptist
+Danny K. Davis,representative,"Davis, Danny K.",RepDannyDavis,Illinois,D,Midwest,M,76,Baptist
+David Price,representative,"Price, David",RepDavidEPrice,North Carolina,D,South,M,77,Baptist
+David Rouzer,representative,"Rouzer, David",RepDavidRouzer,North Carolina,R,South,M,45,Baptist
+David Scott,representative,"Scott, David",repdavidscott,Georgia,D,South,M,72,Baptist
+Donald Payne Jr.,representative,"Payne Jr., Donald",RepDonaldPayne,New Jersey,D,Northeast,M,59,Baptist
+Doug Collins,representative,"Collins, Doug",RepDougCollins,Georgia,R,South,M,51,Baptist
+Duncan D. Hunter,representative,"Hunter, Duncan D.",Rep_Hunter,California,R,West,M,41,Baptist
+Eddie Bernice Johnson,representative,"Johnson, Eddie Bernice",RepEBJ,Texas,D,South,F,82,Baptist
+Elijah Cummings,representative,"Cummings, Elijah",RepCummings,Maryland,D,South,M,66,Baptist
+Frank Lucas,representative,"Lucas, Frank",RepFrankLucas,Oklahoma,R,South,M,57,Baptist
+G.K. Butterfield,representative,"Butterfield, G.K.",GKButterfield,North Carolina,D,South,M,70,Baptist
+George Holding,representative,"Holding, George",RepHolding,North Carolina,R,South,M,49,Baptist
+Gregg Harper,representative,"Harper, Gregg",GreggHarper,Mississippi,R,South,M,61,Baptist
+Gwen Moore,representative,"Moore, Gwen",RepGwenMoore,Wisconsin,D,Midwest,F,66,Baptist
+Hakeem Jeffries,representative,"Jeffries, Hakeem",RepJeffries,New York,D,Northeast,M,47,Baptist
+Harold Rogers,representative,"Rogers, Harold",RepHalRogers,Kentucky,R,South,M,80,Baptist
+James Comer,representative,"Comer, James",none,Kentucky,R,South,M,45,Baptist
+Jim Bridenstine,representative,"Bridenstine, Jim",RepJBridenstine,Oklahoma,R,South,M,42,Baptist
+Jody Hice,representative,"Hice, Jody",CongressmanHice,Georgia,R,South,M,57,Baptist
+John Conyers Jr.,representative,"Conyers Jr., John",RepJohnConyers,Michigan,D,Midwest,M,88,Baptist
+John Faso,representative,"Faso, John",RepJohnFaso,New York,R,Northeast,M,65,Baptist
+John Lewis,representative,"Lewis, John",RepJasonLewis,Georgia,D,South,M,77,Baptist
+Joyce Beatty,representative,"Beatty, Joyce",RepBeatty,Ohio,D,Midwest,F,67,Baptist
+Judy Chu,representative,"Chu, Judy",RepJudyChu,California,D,West,F,64,Baptist
+Karen Bass,representative,"Bass, Karen",RepKarenBass,California,D,West,F,64,Baptist
+Kevin McCarthy,representative,"McCarthy, Kevin",GOPLeader,California,R,West,M,52,Baptist
+Louie Gohmert,representative,"Gohmert, Louie",replouiegohmert,Texas,R,South,M,64,Baptist
+Madeleine Bordallo,representative,"Bordallo, Madeleine",none,Guam,D,Territory,F,84,Baptist
+Marcia L. Fudge,representative,"Fudge, Marcia L.",RepMarciaFudge,Ohio,D,Midwest,F,65,Baptist
+Mark Walker,representative,"Walker, Mark",RepMarkWalker,North Carolina,R,South,M,48,Baptist
+Raja Krishnamoorthi,representative,"Krishnamoorthi, Raja",CongressmanRaja,Illinois,D,Midwest,M,44,Baptist
+Ralph Abraham,representative,"Abraham, Ralph",RepAbraham,Louisiana,R,South,M,63,Baptist
+Randy Weber,representative,"Weber, Randy",TXRandy14,Texas,R,South,M,64,Baptist
+Raul Ruiz,representative,"Ruiz, Raul",CongressmanRuiz,California,D,West,M,45,Baptist
+Rick Crawford,representative,"Crawford, Rick",RepRickCrawford,Arkansas,R,South,M,51,Baptist
+Sam Graves,representative,"Graves, Sam",RepSamGraves,Missouri,R,Midwest,M,54,Baptist
+Sanford D. Bishop Jr.,representative,"Bishop Jr., Sanford D.",SanfordBishop,Georgia,D,South,M,70,Baptist
+Steny H. Hoyer,representative,"Hoyer, Steny H.",WhipHoyer,Maryland,D,South,M,78,Baptist
+Steve Pearce,representative,"Pearce, Steve",RepStevePearce,New Mexico,R,West,M,70,Baptist
+Steve Russell,representative,"Russell, Steve",RepRussell,Oklahoma,R,South,M,54,Baptist
+Steve Womack,representative,"Womack, Steve",rep_stevewomack,Arkansas,R,South,M,60,Baptist
+Tom Graves,representative,"Graves, Tom",RepTomGraves,Georgia,R,South,M,47,Baptist
+Tom McClintock,representative,"McClintock, Tom",RepMcClintock,California,R,West,M,61,Baptist
+Trent Franks,representative,"Franks, Trent",RepTrentFranks,Arizona,R,West,M,60,Baptist
+Trey Gowdy,representative,"Gowdy, Trey",TGowdySC,South Carolina,R,South,M,53,Baptist
+Vern Buchanan,representative,"Buchanan, Vern",VernBuchanan,Florida,R,South,M,66,Baptist
+Colleen Hanabusa,representative,"Hanabusa, Colleen",RepHanabusa,Hawaii,D,West,F,66,Buddhist
+"Henry C. ""Hank"" Jr. Johnson",representative,"Johnson, Henry C. ""Hank"" Jr.",RepHankJohnson,Georgia,D,South,M,63,Buddhist
+Adriano Espaillat,representative,"Espaillat, Adriano",RepEspaillat,New York,D,Northeast,M,63,Catholic
+Albio Sires,representative,"Sires, Albio",RepSires,New Jersey,D,Northeast,M,66,Catholic
+Alex Mooney,representative,"Mooney, Alex",RepAlexMooney,West Virginia,R,South,M,46,Catholic
+Amata Radewagen,representative,"Radewagen, Amata",RepAmata,American Samoa,R,Territory,F,70,Catholic
+Andy Harris,representative,"Harris, Andy",RepAndyHarrisMD,Maryland,R,South,M,60,Catholic
+Ann Wagner,representative,"Wagner, Ann",RepAnnWagner,Missouri,R,Midwest,F,55,Catholic
+Anna G. Eshoo,representative,"Eshoo, Anna G.",RepAnnaEshoo,California,D,West,F,75,Catholic
+Barbara Comstock,representative,"Comstock, Barbara",RepComstock,Virginia,R,South,F,58,Catholic
+Ben R. Lujan,representative,"Lujan, Ben R.",repbenraylujan,New Mexico,D,West,M,45,Catholic
+Beto O'Rourke,representative,"O'Rourke, Beto",RepBetoORourke,Texas,D,South,M,45,Catholic
+Betty McCollum,representative,"McCollum, Betty",BettyMcCollum04,Minnesota,D,Midwest,F,63,Catholic
+Bill Pascrell Jr.,representative,"Pascrell Jr., Bill",BillPascrell,New Jersey,D,Northeast,M,80,Catholic
+Blaine Luetkemeyer,representative,"Luetkemeyer, Blaine",RepBlainePress,Missouri,R,Midwest,M,65,Catholic
+Brad Wenstrup,representative,"Wenstrup, Brad",RepBradWenstrup,Ohio,R,Midwest,M,59,Catholic
+Brendan Boyle,representative,"Boyle, Brendan",CongBoyle,Pennsylvania,D,Northeast,M,40,Catholic
+Brian Fitzpatrick,representative,"Fitzpatrick, Brian",RepBrianFitz,Pennsylvania,R,Northeast,M,44,Catholic
+Brian Higgins,representative,"Higgins, Brian",RepBrianHiggins,New York,D,Northeast,M,61,Catholic
+Bruce Poliquin,representative,"Poliquin, Bruce",RepPoliquin,Maine,R,Northeast,M,64,Catholic
+Carlos Curbelo,representative,"Curbelo, Carlos",RepCurbelo,Florida,R,South,M,37,Catholic
+Carol Shea-Porter,representative,"Shea-Porter, Carol",RepSheaPorter,New Hampshire,D,Northeast,F,65,Catholic
+Cheri Bustos,representative,"Bustos, Cheri",RepCheri,Illinois,D,Midwest,F,56,Catholic
+Chris Collins,representative,"Collins, Chris",RepChrisCollins,New York,R,Northeast,M,67,Catholic
+Chris Smith,representative,"Smith, Chris",RepChrisSmith,New Jersey,R,Northeast,M,64,Catholic
+Chuck Fleischmann,representative,"Fleischmann, Chuck",RepChuck,Tennessee,R,South,M,55,Catholic
+Clay Higgins,representative,"Higgins, Clay",RepClayHiggins,Louisiana,R,South,M,56,Catholic
+Daniel Donovan,representative,"Donovan, Daniel",dandonovan_ny,New York,R,Northeast,M,61,Catholic
+Daniel Kildee,representative,"Kildee, Daniel",RepDanKildee,Michigan,D,Midwest,M,59,Catholic
+Daniel Lipinski,representative,"Lipinski, Daniel",RepLipinski,Illinois,D,Midwest,M,51,Catholic
+Darin LaHood,representative,"LaHood,Darin",RepLaHood,Illinois,R,Midwest,M,49,Catholic
+Darren Soto,representative,"Soto, Darren",RepDarrenSoto,Florida,D,South,M,39,Catholic
+David Joyce,representative,"Joyce, David",RepDaveJoyce,Ohio,R,Midwest,M,60,Catholic
+David Schweikert,representative,"Schweikert, David",RepDavid,Arizona,R,West,M,55,Catholic
+David Valadao,representative,"Valadao, David",RepDavidValadao,California,R,West,M,40,Catholic
+Debbie Dingell,representative,"Dingell, Debbie",RepDebDingell,Michigan,D,Midwest,F,64,Catholic
+Devin Nunes,representative,"Nunes, Devin",Rep_DevinNunes,California,R,West,M,44,Catholic
+Ed Royce,representative,"Royce, Ed",RepEdRoyce,California,R,West,M,66,Catholic
+Elise Stefanik,representative,"Stefanik, Elise",RepStefanik,New York,R,Northeast,F,33,Catholic
+James Sensenbrenner,representative,"Sensenbrenner, F. James",JimPressOffice,Wisconsin,R,Midwest,M,74,Catholic
+Filemon Vela,representative,"Vela, Filemon",RepFilemonVela,Texas,D,South,M,54,Catholic
+Francis Rooney,representative,"Rooney, Francis",RepRooney,Florida,R,South,M,64,Catholic
+Frank LoBiondo,representative,"LoBiondo, Frank",RepLoBiondo,New Jersey,R,Northeast,M,71,Catholic
+Frank Pallone Jr.,representative,"Pallone Jr., Frank",FrankPallone,New Jersey,D,Northeast,M,66,Catholic
+French Hill,representative,"Hill, French",RepFrenchHill,Arkansas,R,South,M,61,Catholic
+Garret Graves,representative,"Graves, Garret",garretgraves,Louisiana,R,South,M,45,Catholic
+"Gerald E. ""Gerry"" Connolly",representative,"Connolly, Gerald E. ""Gerry""",GerryConnolly,Virginia,D,South,M,67,Catholic
+Grace Napolitano,representative,"Napolitano, Grace",gracenapolitano,California,D,West,F,81,Catholic
+Gregorio Sablan,representative,"Sablan, Gregorio",none,Northern Mariana Islands,D,Territory,M,62,Catholic
+Henry Cuellar,representative,"Cuellar, Henry",RepCuellar,Texas,D,South,M,62,Catholic
+Jackie Speier,representative,"Speier, Jackie",RepSpeier,California,D,West,F,67,Catholic
+James McGovern,representative,"McGovern, James",RepMcGovern,Massachusetts,D,Northeast,M,58,Catholic
+Jason Lewis,representative,"Lewis, Jason",RepJasonLewis,Minnesota,R,Midwest,M,62,Catholic
+Jeff Fortenberry,representative,"Fortenberry, Jeff",JeffFortenberry,Nebraska,R,West,M,57,Catholic
+Jerry McNerney,representative,"McNerney, Jerry",RepMcNerney,California,D,West,M,66,Catholic
+Jim Costa,representative,"Costa, Jim",RepJimCosta,California,D,West,M,65,Catholic
+Jim Langevin,representative,"Langevin, Jim",JimLangevin,Rhode Island,D,Northeast,M,53,Catholic
+Jim Renacci,representative,"Renacci, Jim",RepJimRenacci,Ohio,R,Midwest,M,59,Catholic
+Jimmy Panetta,representative,"Panetta, Jimmy",RepJimmyPanetta,California,D,West,M,48,Catholic
+Joaquin Castro,representative,"Castro, Joaquin",JoaquinCastrotx,Texas,D,South,M,43,Catholic
+Joe Courtney,representative,"Courtney, Joe",RepJoeCourtney,Connecticut,D,Northeast,M,64,Catholic
+John Delaney,representative,"Delaney, John",RepJohnDelaney,Maryland,D,South,M,54,Catholic
+John Garamendi,representative,"Garamendi, John",RepGaramendi,California,D,West,M,72,Catholic
+John Katko,representative,"Katko, John",RepJohnKatko,New York,R,Northeast,M,55,Catholic
+John Ratcliffe,representative,"Ratcliffe, John",RepRatcliffe,Texas,R,South,M,52,Catholic
+Jos‚ E. Serrano,representative,"Serrano, Jos‚ E.",RepJoseSerrano,New York,D,Northeast,M,74,Catholic
+Joseph P. Kennedy III,representative,"Kennedy III, Joseph P.",RepJoeKennedy,Massachusetts,D,Northeast,M,37,Catholic
+Juan Vargas,representative,"Vargas, Juan",RepJuanVargas,California,D,West,M,56,Catholic
+Kathleen Rice,representative,"Rice, Kathleen",RepKathleenRice,New York,D,Northeast,F,52,Catholic
+Keith Rothfus,representative,"Rothfus, Keith",KeithRothfus,Pennsylvania,R,Northeast,M,55,Catholic
+Kevin Brady,representative,"Brady, Kevin",RepKevinBrady,Texas,R,South,M,62,Catholic
+Leonard Lance,representative,"Lance, Leonard",RepLanceNJ7,New Jersey,R,Northeast,M,65,Catholic
+Linda S nchez,representative,"S nchez, Linda",RepLindaSanchez,California,D,West,F,48,Catholic
+Lou Barletta,representative,"Barletta, Lou",RepLouBarletta,Pennsylvania,R,Northeast,M,61,Catholic
+Lucille Roybal-Allard,representative,"Roybal-Allard, Lucille",RepRoybalAllard,California,D,West,F,76,Catholic
+Luis Gutierrez,representative,"Gutierrez, Luis",RepGutierrez,Illinois,D,Midwest,M,64,Catholic
+Marcy Kaptur,representative,"Kaptur, Marcy",RepMarcyKaptur,Ohio,D,Midwest,F,71,Catholic
+Mario Diaz-Balart,representative,"Diaz-Balart, Mario",MarioDB,Florida,R,South,M,56,Catholic
+Mark DeSaulnier,representative,"DeSaulnier, Mark",RepDeSaulnier,California,D,West,M,65,Catholic
+Matthew Cartwright,representative,"Cartwright, Matthew",RepCartwright,Pennsylvania,D,Northeast,M,56,Catholic
+Michael T. McCaul,representative,"McCaul, Michael T.",RepMcCaul,Texas,R,South,M,55,Catholic
+Michelle Lujan Grisham,representative,"Lujan Grisham, Michelle",RepLujanGrisham,New Mexico,D,West,F,58,Catholic
+Mick Mulvaney - Vacancy,representative,"Mulvaney, Mick - Vacancy",none,South Carolina,R,South,M,null,Catholic
+Mike Kelly,representative,"Kelly, Mike",MikeKellyPA,Pennsylvania,R,Northeast,M,69,Catholic
+Mike Thompson,representative,"Thompson, Mike",RepThompson,California,D,West,M,69,Catholic
+Mimi Walters,representative,"Walters, Mimi",RepMimiWalters,California,R,West,F,55,Catholic
+Nancy Pelosi,representative,"Pelosi, Nancy",NancyPelosi,California,D,West,F,77,Catholic
+Norma Torres,representative,"Torres, Norma",NormaJTorres,California,D,West,F,52,Catholic
+Nydia M. Velazquez,representative,"Velazquez, Nydia M.",NydiaVelazquez,New York,D,Northeast,F,64,Catholic
+Pat Meehan,representative,"Meehan, Pat",RepMeehan,Pennsylvania,R,Northeast,M,62,Catholic
+Pat Tiberi,representative,"Tiberi, Pat",PatTiberi,Ohio,R,Midwest,M,55,Catholic
+Patrick T. McHenry,representative,"McHenry, Patrick T.",PatrickMcHenry,North Carolina,R,South,M,42,Catholic
+Paul Cook,representative,"Cook, Paul",RepPaulCook,California,R,West,M,74,Catholic
+Paul D. Ryan,representative,"Ryan, Paul D.",SpeakerRyan,Wisconsin,R,Midwest,M,47,Catholic
+Paul D. Tonko,representative,"Tonko, Paul D.",RepPaulTonko,New York,D,Northeast,M,68,Catholic
+Pete Aguilar,representative,"Aguilar, Pete",aguilarpete,California,D,West,M,38,Catholic
+Pete King,representative,"King, Pete",RepPeteKing,New York,R,Northeast,M,73,Catholic
+Peter DeFazio,representative,"DeFazio, Peter",RepPeterDeFazio,Oregon,D,West,M,70,Catholic
+Peter Visclosky,representative,"Visclosky, Peter",RepVisclosky,Indiana,D,Midwest,M,68,Catholic
+Peter Welch,representative,"Welch, Peter",PeterWelch,Vermont,D,Northeast,M,70,Catholic
+Raul Grijalva,representative,"Grijalva, Raul",RepRaulGrijalva,Arizona,D,West,M,69,Catholic
+Rick Nolan,representative,"Nolan, Rick",USRepRickNolan,Minnesota,D,Midwest,M,74,Catholic
+Ron DeSantis,representative,"DeSantis, Ron",RepDeSantis,Florida,R,South,M,39,Catholic
+Rosa L. DeLauro,representative,"DeLauro, Rosa L.",rosadelauro,Connecticut,D,Northeast,F,74,Catholic
+Ruben Gallego,representative,"Gallego, Ruben",RepRubenGallego,Arizona,D,West,M,38,Catholic
+Sean P. Duffy,representative,"Duffy, Sean P.",RepSeanDuffy,Wisconsin,R,Midwest,M,46,Catholic
+Sean Patrick Maloney,representative,"Maloney, Sean Patrick",RepMaloney,New York,D,Northeast,M,51,Catholic
+Stephen F. Lynch,representative,"Lynch, Stephen F.",RepStephenLynch,Massachusetts,D,Northeast,M,62,Catholic
+Steve Chabot,representative,"Chabot, Steve",RepSteveChabot,Ohio,R,Midwest,M,64,Catholic
+Steve King,representative,"King, Steve",SteveKingIA,Iowa,R,Midwest,M,68,Catholic
+Steve Knight,representative,"Knight, Steve",SteveKnight25,California,R,West,M,51,Catholic
+Steve Scalise,representative,"Scalise, Steve",SteveScalise,Louisiana,R,South,M,52,Catholic
+Steven Palazzo,representative,"Palazzo, Steven",CongPalazzo,Mississippi,R,South,M,47,Catholic
+Susan W. Brooks,representative,"Brooks, Susan W.",none,Indiana,R,Midwest,F,57,Catholic
+Ted Lieu,representative,"Lieu, Ted",RepTedLieu,California,D,West,M,48,Catholic
+Ted Yoho,representative,"Yoho, Ted",RepTedYoho,Florida,R,South,M,62,Catholic
+Tim Ryan,representative,"Ryan, Tim",RepTimRyan,Ohio,D,Midwest,M,44,Catholic
+Todd Rokita,representative,"Rokita, Todd",ToddRokita,Indiana,R,Midwest,M,47,Catholic
+Tom Emmer,representative,"Emmer, Tom",RepTomEmmer,Minnesota,R,Midwest,M,56,Catholic
+Tom Marino,representative,"Marino, Tom",RepTomMarino,Pennsylvania,R,Northeast,M,65,Catholic
+Tom Rooney,representative,"Rooney, Tom",RepRooney,Florida,R,South,M,47,Catholic
+Virginia Foxx,representative,"Foxx, Virginia",virginiafoxx,North Carolina,R,South,F,74,Catholic
+Walter B. Jones,representative,"Jones, Walter B.",RepWalterJones,North Carolina,R,South,M,74,Catholic
+"William ""Lacy"" Clay Jr.",representative,"Clay Jr., William ""Lacy""",LacyClayMO1,Missouri,D,Midwest,M,61,Catholic
+Xavier Becerra  - Vacancy ,representative,"Becerra, Xavier - Vacancy",none,California,D,West,M,null,Catholic
+Brenda Lawrence,representative,"Lawrence, Brenda",RepLawrence,Michigan,D,Midwest,F,63,Christian
+Doug Lamborn,representative,"Lamborn, Doug",RepDLamborn,Colorado,R,West,M,63,Christian
+Glenn W. Thompson,representative,"Thompson, Glenn W.",CongressmanGT,Pennsylvania,R,Northeast,M,66,Christian
+Grace Meng,representative,"Meng, Grace",RepGraceMeng,New York,D,Northeast,F,42,Christian
+Jaime Herrera Beutler,representative,"Herrera Beutler, Jaime",HerreraBeutler,Washington,R,West,F,39,Christian
+Jim Jordan,representative,"Jordan, Jim",Jim_Jordan,Ohio,R,Midwest,M,53,Christian
+John Moolenaar,representative,"Moolenaar, John",RepMoolenaar,Michigan,R,Midwest,M,56,Christian
+Ken Buck,representative,"Buck, Ken",RepKenBuck,Colorado,R,West,M,58,Christian
+Kevin Cramer,representative,"Cramer, Kevin",RepKevinCramer,North Dakota,R,Midwest,M,56,Christian
+Kristi Noem,representative,"Noem, Kristi",RepKristiNoem,South Dakota,R,Midwest,F,46,Christian
+Mark Amodei,representative,"Amodei, Mark",MarkAmodeiNV2,Nevada,R,West,M,59,Christian
+Martha McSally,representative,"McSally, Martha",RepMcSally,Arizona,R,West,F,51,Christian
+Maxine Waters,representative,"Waters, Maxine",MaxineWaters,California,D,West,F,79,Christian
+Mike Quigley,representative,"Quigley, Mike",RepMikeQuigley,Illinois,D,Midwest,M,59,Christian
+Richard Hudson,representative,"Hudson, Richard",RepRichHudson,North Carolina,R,South,M,46,Christian
+Seth Moulton,representative,"Moulton, Seth",sethmoulton,Massachusetts,D,Northeast,M,39,Christian
+Tony C rdenas,representative,"C rdenas, Tony",RepCardenas,California,D,West,M,54,Christian
+Will Hurd,representative,"Hurd, Will",HurdOnTheHill,Texas,R,South,M,40,Christian
+Bill Huizenga,representative,"Huizenga, Bill",RepHuizenga,Michigan,R,Midwest,M,48,Christian Reformed
+Bob Goodlatte,representative,"Goodlatte, Bob",RepGoodlatte,Virginia,R,South,M,65,Christian Scientist
+Lamar Smith,representative,"Smith, Lamar",LamarSmithTX21,Texas,R,South,M,70,Christian Scientist
+Ted Poe,representative,"Poe, Ted",JudgeTedPoe,Texas,R,South,M,69,Church of Christ
+Elizabeth Esty,representative,"Esty, Elizabeth",RepEsty,Connecticut,D,Northeast,F,58,Congregationalist
+Ken Calvert,representative,"Calvert, Ken",KenCalvert,California,R,West,M,64,Congregationalist
+Mike Bishop,representative,"Bishop, Mike",RepMikeBishop,Michigan,R,Midwest,M,50,Congregationalist
+Robert Aderholt,representative,"Aderholt, Robert",Robert_Aderholt,Alabama,R,South,M,52,Congregationalist
+Roger Williams,representative,"Williams, Roger",RepRWilliams,Texas,R,South,M,68,Disciples of Christ
+Darrell Issa,representative,"Issa, Darrell",DarrellIssa,California,R,West,M,64,Eastern Orthodox
+Dina Titus,representative,"Titus, Dina",repdinatitus,Nevada,D,West,F,67,Eastern Orthodox
+Gus M. Bilirakis,representative,"Bilirakis, Gus M.",RepGusBilirakis,Florida,R,South,M,54,Eastern Orthodox
+Justin Amash,representative,"Amash, Justin",justinamash,Michigan,R,Midwest,M,37,Eastern Orthodox
+Al Lawson,representative,"Lawson, Al",RepAlLawsonJr,Florida,D,South,M,69,Episcopalian
+Ann Kuster,representative,"Kuster, Ann",RepAnnieKuster,New Hampshire,D,Northeast,F,61,Episcopalian
+Bradley Byrne,representative,"Byrne, Bradley",RepByrne,Alabama,R,South,M,62,Episcopalian
+Don Beyer,representative,"Beyer, Don",RepDonBeyer,Virginia,D,South,M,67,Episcopalian
+Eleanor Holmes Norton,representative,"Norton, Eleanor Holmes",none,District of Columbia,D,South,F,80,Episcopalian
+Niki Tsongas,representative,"Tsongas, Niki",nikiinthehouse,Massachusetts,D,Northeast,F,71,Episcopalian
+Rod Blum,representative,"Blum, Rod",RepRodBlum,Iowa,R,Midwest,M,62,Episcopalian
+Tom MacArthur,representative,"MacArthur, Tom",RepTomMacArthur,New Jersey,R,Northeast,M,57,Episcopalian
+Jackie Walorski,representative,"Walorski, Jackie",RepWalorski,Indiana,R,Midwest,F,54,Evangelical Christian
+Adrian Smith,representative,"Smith, Adrian",RepAdrianSmith,Nebraska,R,West,M,47,Evangelical Free Church
+Cathy McMorris Rodgers,representative,"McMorris Rodgers, Cathy",cathymcmorris,Washington,R,West,F,48,Evangelical Free Church
+Vicky Hartzler,representative,"Hartzler, Vicky",RepHartzler,Missouri,R,Midwest,F,57,Fellowship of Evangelical Churches
+Tulsi Gabbard,representative,"Gabbard, Tulsi",TulsiPress,Hawaii,D,West,F,36,Hindu
+Jamie Raskin,representative,"Raskin, Jamie",RepRaskin,Maryland,D,South,M,55,Humanist
+Adam Schiff,representative,"Schiff, Adam",RepAdamSchiff,California,D,West,M,57,Jewish
+Alan Lowenthal,representative,"Lowenthal, Alan",RepLowenthal,California,D,West,M,76,Jewish
+Brad Sherman,representative,"Sherman, Brad",BradSherman,California,D,West,M,63,Jewish
+Bradley Schneider,representative,"Schneider, Bradley",RepSchneider,Illinois,D,Midwest,M,62,Jewish
+David Cicilline,representative,"Cicilline, David",RepCicilline,Rhode Island,D,Northeast,M,56,Jewish
+David Kustoff,representative,"Kustoff, David",repdavidkustoff,Tennessee,R,South,M,51,Jewish
+Debbie Wasserman Schultz,representative,"Wasserman Schultz, Debbie",RepDWStweets,Florida,D,South,F,51,Jewish
+Eliot Engel,representative,"Engel, Eliot",RepEliotEngel,New York,D,Northeast,M,70,Jewish
+Jacky Rosen,representative,"Rosen, Jacky",RepJackyRosen,Nevada,D,West,F,60,Jewish
+Jan Schakowsky,representative,"Schakowsky, Jan",janschakowsky,Illinois,D,Midwest,F,73,Jewish
+Jared Polis,representative,"Polis, Jared",jaredpolis,Colorado,D,West,M,42,Jewish
+Jerrold Nadler,representative,"Nadler, Jerrold",RepJerryNadler,New York,D,Northeast,M,70,Jewish
+John A. Yarmuth,representative,"Yarmuth, John A.",RepJohnYarmuth,Kentucky,D,South,M,70,Jewish
+Lee Zeldin,representative,"Zeldin, Lee",leezeldin,New York,R,Northeast,M,37,Jewish
+Lois Frankel,representative,"Frankel, Lois",RepLoisFrankel,Florida,D,South,F,69,Jewish
+Nita Lowey,representative,"Lowey, Nita",NitaLowey,New York,D,Northeast,F,80,Jewish
+Sander Levin,representative,"Levin, Sander",repsandylevin,Michigan,D,Midwest,M,86,Jewish
+Steve Cohen,representative,"Cohen, Steve",RepCohen,Tennessee,D,South,M,68,Jewish
+Susan Davis,representative,"Davis, Susan",RepSusanDavis,California,D,West,F,73,Jewish
+Ted Deutch,representative,"Deutch, Ted",RepTedDeutch,Florida,D,South,M,51,Jewish
+Bill Shuster,representative,"Shuster, Bill",RepBillShuster,Pennsylvania,R,Northeast,M,56,Lutheran
+Chellie Pingree,representative,"Pingree, Chellie",chelliepingree,Maine,D,Northeast,F,62,Lutheran
+Collin C. Peterson,representative,"Peterson, Collin C.",none,Minnesota,D,Midwest,M,73,Lutheran
+David G. Reichert,representative,"Reichert, David G.",davereichert,Washington,R,West,M,67,Lutheran
+David Young,representative,"Young, David",RepDavidYoung,Iowa,R,Midwest,M,49,Lutheran
+Dennis Ross,representative,"Ross, Dennis",RepDennisRoss,Florida,R,South,M,58,Lutheran
+Diane Black,representative,"Black, Diane",RepDianeBlack,Tennessee,R,South,F,66,Lutheran
+Donald Norcross,representative,"Norcross, Donald",DonaldNorcross,New Jersey,D,Northeast,M,59,Lutheran
+Erik Paulsen,representative,"Paulsen, Erik",RepErikPaulsen,Minnesota,R,Midwest,M,52,Lutheran
+Glenn Grothman,representative,"Grothman, Glenn",RepGrothman,Wisconsin,R,Midwest,M,62,Lutheran
+John Carter,representative,"Carter, John",JudgeCarter,Texas,R,South,M,76,Lutheran
+John Shimkus,representative,"Shimkus, John",RepShimkus,Illinois,R,Midwest,M,59,Lutheran
+Larry Bucshon,representative,"Bucshon, Larry",RepLarryBucshon,Indiana,R,Midwest,M,55,Lutheran
+Ron Kind,representative,"Kind, Ron",RepRonKind,Wisconsin,D,Midwest,M,54,Lutheran
+Ryan Zinke - Vacancy,representative,"Zinke, Ryan",none,Montana,R,West,M,null,Lutheran
+Scott Peters,representative,"Peters, Scott",RepScottPeters,California,D,West,M,59,Lutheran
+Timothy J. Walz,representative,"Walz, Timothy J.",RepTimWalz,Minnesota,D,Midwest,M,53,Lutheran
+Zoe Lofgren,representative,"Lofgren, Zoe",RepZoeLofgren,California,D,West,F,70,Lutheran
+Alcee L. Hastings,representative,"Hastings, Alcee L.",RepHastingsFL,Florida,D,South,M,81,Methodist
+Bennie G. Thompson,representative,"Thompson, Bennie G.",BennieGThompson,Mississippi,D,South,M,69,Methodist
+Bill Posey,representative,"Posey, Bill",congbillposey,Florida,R,South,M,70,Methodist
+Bob Gibbs,representative,"Gibbs, Bob",RepBobGibbs,Ohio,R,Midwest,M,63,Methodist
+Buddy Carter,representative,"Carter, Buddy",RepBuddyCarter,Georgia,R,South,M,60,Methodist
+Charlie Crist,representative,"Crist, Charlie",RepCharlieCrist,Florida,D,South,M,61,Methodist
+David Loebsack,representative,"Loebsack, David",daveloebsack,Iowa,D,Midwest,M,65,Methodist
+Derek Kilmer,representative,"Kilmer, Derek",RepDerekKilmer,Washington,D,West,M,43,Methodist
+Doris O. Matsui,representative,"Matsui, Doris O.",DorisMatsui,California,D,West,F,73,Methodist
+Ed Perlmutter,representative,"Perlmutter, Ed",RepPerlmutter,Colorado,D,West,M,64,Methodist
+Emanuel Cleaver,representative,"Cleaver, Emanuel",repcleaver,Missouri,D,Midwest,M,73,Methodist
+Evan Jenkins,representative,"Jenkins, Evan",RepEvanJenkins,West Virginia,R,South,M,57,Methodist
+Gene Green,representative,"Green, Gene",RepGeneGreen,Texas,D,South,M,70,Methodist
+Gregory W. Meeks,representative,"Meeks, Gregory W.",GregoryMeeks,New York,D,Northeast,M,64,Methodist
+James E. Clyburn,representative,"Clyburn, James E.",Clyburn,South Carolina,D,South,M,77,Methodist
+Joe Barton,representative,"Barton, Joe",RepJoeBarton,Texas,R,South,M,68,Methodist
+John Culberson,representative,"Culberson, John",CongCulberson,Texas,R,South,M,61,Methodist
+Kay Granger,representative,"Granger, Kay",RepKayGranger,Texas,R,South,F,74,Methodist
+Kevin Yoder,representative,"Yoder, Kevin",RepKevinYoder,Kansas,R,Midwest,M,41,Methodist
+Lynn Jenkins,representative,"Jenkins, Lynn",RepLynnJenkins,Kansas,R,Midwest,F,54,Methodist
+Mark Meadows,representative,"Meadows, Mark",RepMarkMeadows,North Carolina,R,South,M,58,Methodist
+Mark Takano,representative,"Takano, Mark",RepMarkTakano,California,D,West,M,57,Methodist
+Mike Coffman,representative,"Coffman, Mike",RepMikeCoffman,Colorado,R,West,M,62,Methodist
+Mike Rogers,representative,"Rogers, Mike",RepMikeRogersAL,Alabama,R,South,M,59,Methodist
+Pete Olson,representative,"Olson, Pete",PeteOlson,Texas,R,South,M,55,Methodist
+Pete Sessions,representative,"Sessions, Pete",PeteSessions,Texas,R,South,M,62,Methodist
+Phil Roe,representative,"Roe, Phil",DrPhilRoe,Tennessee,R,South,M,72,Methodist
+Rick Larsen,representative,"Larsen, Rick",RepRickLarsen,Washington,D,West,M,52,Methodist
+Robert Woodall,representative,"Woodall, Robert",RepRobWoodall,Georgia,R,South,M,47,Methodist
+Sam Johnson,representative,"Johnson, Sam",SamsPressShop,Texas,R,South,M,87,Methodist
+Steve Stivers,representative,"Stivers, Steve",RepSteveStivers,Ohio,R,Midwest,M,52,Methodist
+Thomas Massie,representative,"Massie, Thomas",RepThomasMassie,Kentucky,R,South,M,46,Methodist
+Tom Cole,representative,"Cole, Tom",TomColeOK04,Oklahoma,R,South,M,68,Methodist
+Trent Kelly,representative,"Kelly, Trent",RepTrentKelly,Mississippi,R,South,M,51,Methodist
+Yvette D. Clarke,representative,"Clarke, Yvette D.",RepYvetteClarke,New York,D,Northeast,F,53,Methodist
+Andy Biggs,representative,"Biggs, Andy",RepAndyBiggsAZ,Arizona,R,West,M,59,Mormon
+Chris Stewart,representative,"Stewart, Chris",RepChrisStewart,Utah,R,West,M,57,Mormon
+Jason Chaffetz,representative,"Chaffetz, Jason",jasoninthehouse,Utah,R,West,M,50,Mormon
+Mia Love,representative,"Love, Mia",RepMiaLove,Utah,R,West,F,44,Mormon
+Mike Simpson,representative,"Simpson, Mike",CongMikeSimpson,Idaho,R,West,M,67,Mormon
+Raul R. Labrador,representative,"Labrador, Raul R.",Raul_Labrador,Idaho,R,West,M,50,Mormon
+Rob Bishop,representative,"Bishop, Rob",RepMikeBishop,Utah,R,West,M,66,Mormon
+Andr‚ Carson,representative,"Carson, Andr‚",RepAndreCarson,Indiana,D,Midwest,M,43,Muslim
+Keith Ellison,representative,"Ellison, Keith",keithellison,Minnesota,D,Midwest,M,54,Muslim
+Kenny Marchant,representative,"Marchant, Kenny",RepKenMarchant,Texas,R,South,M,66,Nazarene
+Mo Brooks,representative,"Brooks, Mo",SusanWBrooks,Alabama,R,South,M,63,Non-denominational Christian
+Robin Kelly,representative,"Kelly, Robin",RepRobinKelly,Illinois,D,Midwest,F,61,Non-denominational Christian
+Kyrsten Sinema,representative,"Sinema, Kyrsten",RepSinema,Arizona,D,West,F,41,None
+Drew Ferguson,representative,"Ferguson, A. Drew",RepDrewFerguson,Georgia,R,South,M,51,null
+Anthony Brown,representative,"Brown, Anthony",RepAnthonyBrown,Maryland,D,South,M,56,null
+Dave Trott,representative,"Trott, Dave",repdavetrott,Michigan,R,Midwest,M,57,null
+Don Bacon,representative,"Bacon, Don",RepDonBacon,Nebraska,R,West,M,54,null
+Dwight Evans,representative,"Evans, Dwight",RepDwightEvans,Pennsylvania,D,Northeast,M,63,null
+Luis Correa,representative,"Correa, J. Luis",RepLouCorrea,California,D,West,M,59,null
+Jack Bergman,representative,"Bergman, Jack",RepJackBergman,Michigan,R,Midwest,M,70,null
+Jenniffer Gonzalez,representative,"Gonzalez, Jenniffer",RepJenniffer,Puerto Rico,R,Territory,F,41,null
+Jim Banks,representative,"Banks, Jim",RepCarbajal,Indiana,R,Midwest,M,38,null
+John B. Larson,representative,"Larson, John B.",RepJohnLarson,Connecticut,D,Northeast,M,69,null
+Markwayne Mullin,representative,"Mullin, Markwayne",RepMullin,Oklahoma,R,South,M,40,Pentecostal
+Billy Long,representative,"Long, Billy",USRepLong,Missouri,R,Midwest,M,62,Presbyterian
+Carolyn Maloney,representative,"Maloney, Carolyn",RepSeanMaloney,New York,D,Northeast,F,71,Presbyterian
+Charles W. Dent,representative,"Dent, Charles W.",RepCharlieDent,Pennsylvania,R,Northeast,M,57,Presbyterian
+Dave Brat,representative,"Brat, Dave",RepDaveBrat,Virginia,R,South,M,53,Presbyterian
+Denny Heck,representative,"Heck, Denny",RepDennyHeck,Washington,D,West,M,65,Presbyterian
+Diana DeGette,representative,"DeGette, Diana",RepDianaDeGette,Colorado,D,West,F,60,Presbyterian
+Jeff Denham,representative,"Denham, Jeff",RepJeffDenham,California,R,West,M,50,Presbyterian
+Jeff Duncan,representative,"Duncan, Jeff",RepJeffDuncan,South Carolina,R,South,M,51,Presbyterian
+Jim Himes,representative,"Himes, Jim",jahimes,Connecticut,D,Northeast,M,51,Presbyterian
+Joe Wilson,representative,"Wilson, Joe",RepJoeWilson,South Carolina,R,South,M,70,Presbyterian
+Kathy Castor,representative,"Castor, Kathy",USRepKCastor,Florida,D,South,F,51,Presbyterian
+Luke Messer,representative,"Messer, Luke",RepLukeMesser,Indiana,R,Midwest,M,48,Presbyterian
+Mac Thornberry,representative,"Thornberry, Mac",MacTXPress,Texas,R,South,M,59,Presbyterian
+Marsha Blackburn,representative,"Blackburn, Marsha",MarshaBlackburn,Tennessee,R,South,F,65,Presbyterian
+Martha Roby,representative,"Roby, Martha",RepMarthaRoby,Alabama,R,South,F,41,Presbyterian
+Mike Pompeo - Vacancy,representative,"Pompeo, Mike - Vacancy",none,Kansas,R,Midwest,M,null,Presbyterian
+Ryan Costello,representative,"Costello, Ryan",RepRyanCostello,Pennsylvania,R,Northeast,M,41,Presbyterian
+Gary Palmer,representative,"Palmer, Gary",USRepGaryPalmer,Alabama,R,South,M,63,Presbyterian Church of America
+Adam Kinzinger,representative,"Kinzinger, Adam",RepKinzinger,Illinois,R,Midwest,M,39,Protestant
+Barry Loudermilk,representative,"Loudermilk, Barry",RepLoudermilk,Georgia,R,South,M,54,Protestant
+Bill Johnson,representative,"Johnson, Bill",RepBillJohnson,Ohio,R,Midwest,M,63,Protestant
+Bobby L. Rush,representative,"Rush, Bobby L.",RepBobbyRush,Illinois,D,Midwest,M,71,Protestant
+Brian Mast,representative,"Mast, Brian",RepBrianMast,Florida,R,South,M,37,Protestant
+Claudia Tenney,representative,"Tenney, Claudia",RepTenney,New York,R,Northeast,F,56,Protestant
+Dan Newhouse,representative,"Newhouse, Dan",RepNewhouse,Washington,R,West,M,62,Protestant
+Dana Rohrabacher,representative,"Rohrabacher, Dana",RepRohrabacher,California,R,West,M,70,Protestant
+Fred Upton,representative,"Upton, Fred",RepFredUpton,Michigan,R,Midwest,M,64,Protestant
+Jodey Arrington,representative,"Arrington, Jodey",RepArrington,Texas,R,South,M,45,Protestant
+Katherine Clark,representative,"Clark, Katherine",RepKClark,Massachusetts,D,Northeast,F,54,Protestant
+Randy Hultgren,representative,"Hultgren, Randy",RepHultgren,Illinois,R,Midwest,M,51,Protestant
+Robert Pittenger,representative,"Pittenger, Robert",reppittenger,North Carolina,R,South,M,69,Protestant
+Terri A. Sewell,representative,"Sewell, Terri A.",RepTerriSewell,Alabama,D,South,F,52,Protestant
+Sheila Jackson Lee,representative,"Jackson Lee, Sheila",JacksonLeeTX18,Texas,D,South,F,67,Seventh-day Adventist
+Mike Bost,representative,"Bost, Mike",RepBost,Illinois,R,Midwest,M,57,Southern Baptist
+Ami Bera,representative,"Bera, Ami",RepBera,California,D,West,F,52,Unitarian
+Scott Perry,representative,"Perry, Scott",RepScottPerry,Pennsylvania,R,Northeast,M,55,United Brethren
+Tim Walberg,representative,"Walberg, Tim",RepWalberg,Michigan,R,Midwest,M,66,United Brethren
+Bill Foster,representative,"Foster, Bill",RepBillFoster,Illinois,D,Midwest,M,62,Unspecified
+Earl Blumenauer,representative,"Blumenauer, Earl",repblumenauer,Oregon,D,West,M,69,Unspecified
+Jared Huffman,representative,"Huffman, Jared",RepHuffman,California,D,West,M,53,Unspecified
+Mark Pocan,representative,"Pocan, Mark",repmarkpocan,Wisconsin,D,Midwest,M,53,Unspecified
+Suzanne Bonamici,representative,"Bonamici, Suzanne",RepBonamici,Oregon,D,West,F,63,Unspecified
+Doug LaMalfa,representative,"LaMalfa, Doug",RepLaMalfa,California,R,West,M,57,Unspecified Christian
+Eric Swalwell,representative,"Swalwell, Eric",RepSwalwell,California,D,West,M,37,Unspecified Christian
+C. A. Dutch Ruppersberger,representative,"Ruppersberger, C. A. Dutch",Call_Me_Dutch,Maryland,D,South,M,71,null
+John J. Duncan Jr.,representative,"Duncan Jr., John J.",RepJohnDuncanJr,Tennessee,R,South,M,70,
+John P. Sarbanes,representative,"Sarbanes, John P.",RepSarbanes,Maryland,D,South,M,55,Greek Orthodox
+John Rutherford,representative,"Rutherford, John",RepRutherfordFL,Florida,R,South,M,65,Protestant
+Joseph Crowley,representative,"Crowley, Joseph",repjoecrowley,New York,D,Northeast,M,55,null
+Josh Gottheimer,representative,"Gottheimer, Josh",RepJoshG,New Jersey,D,Northeast,M,42,Jewish
+Michael Conaway,representative,"Conaway, K. Michael",ConawayTX11,Texas,R,South,M,69,null
+Lisa Blunt Rochester,representative,"Blunt Rochester, Lisa",RepBRochester,Delaware,D,South,F,55,null
+Liz Cheney,representative,"Cheney, Liz",RepLizCheney,Wyoming,R,West,F,51,Methodist
+Lloyd Doggett,representative,"Doggett, Lloyd",RepLloydDoggett,Texas,D,South,M,71,Methodist
+Lloyd Smucker,representative,"Smucker, Lloyd",RepSmucker,Pennsylvania,R,Northeast,M,53,null
+Marc Veasey,representative,"Veasey, Marc",RepVeasey,Texas,D,South,M,46,Protestant
+Matt Gaetz,representative,"Gaetz, Matt",RepMattGaetz,Florida,R,South,M,35,Baptist
+Michael E. Capuano,representative,"Capuano, Michael E.",mikecapuano,Massachusetts,D,Northeast,M,65,Catholic
+Michael Turner,representative,"Turner, Michael",RepMikeTurner,Ohio,R,Midwest,M,57,null
+Mike Doyle,representative,"Doyle, Mike",USRepMikeDoyle,Pennsylvania,D,Northeast,M,64,null
+Mike Gallagher,representative,"Gallagher, Mike",RepGallagher,Wisconsin,R,Midwest,M,33,null
+Mike Johnson,representative,"Johnson, Mike",RepMikeJohnson,Louisiana,R,South,M,45,Baptist
+Nanette Barragan,representative,"Barrag n, Nanette",RepBarragan,California,D,West,F,41,null
+Neal Dunn,representative,"Dunn, Neal",DrNealDunnFL2,Florida,R,South,M,64,null
+Paul A. Gosar,representative,"Gosar, Paul A.",RepGosar,Arizona,R,West,M,59,null
+Paul Mitchell,representative,"Mitchell, Paul",RepPaulMitchell,Michigan,R,Midwest,M,56,null
+Pramila Jayapal,representative,"Jayapal, Pramila",none,Washington,D,West,F,52,Hindu
+Richard E. Neal,representative,"Neal, Richard E.",RepRichardNeal,Massachusetts,D,Northeast,M,68,null
+Rick Allen,representative,"Allen, Rick",RepRickAllen,Georgia,R,South,M,66,Methodist
+Ro Khanna,representative,"Khanna, Ro",RepRoKhanna,California,D,West,M,41,Hindu
+Robert Brady,representative,"Brady, Robert",RepBrady,Pennsylvania,D,Northeast,M,72,null
+Robert C. Scott,representative,"Scott, Robert C.",none,Virginia,D,South,M,70,null
+Robert E. Latta,representative,"Latta, Robert E.",boblatta,Ohio,R,Midwest,M,61,Catholic
+Rodney Davis,representative,"Davis, Rodney",RodneyDavis,Illinois,R,Midwest,M,47,null
+Roger Marshall,representative,"Marshall, Roger",none,Kansas,R,Midwest,M,-943,null
+Ruben J. Kihuen,representative,"Kihuen, Ruben J.",RepKihuen,Nevada,D,West,M,37,Catholic
+S. Brett Guthrie,representative,"Guthrie, S. Brett",RepGuthrie,Kentucky,R,South,M,53,Church of Christ
+Salud Carbajal,representative,"Carbajal, Salud",RepCarbajal,California,D,West,M,53,Catholic
+Scott Taylor,representative,"Taylor, Scott",RepScottTaylor,Virginia,R,South,M,38,null
+Stacey Plaskett,representative,"Plaskett, Stacey",none,Virgin Islands,D,Territory,F,53,Lutheran
+Stephanie Murphy,representative,"Murphy, Stephanie",RepStephMurphy,Florida,D,South,F,39,Protestant
+Ted Budd,representative,"Budd, Ted",RepTedBudd,North Carolina,R,South,M,46,Protestant
+Thomas Garrett,representative,"Garrett, Thomas",Rep_Tom_Garrett,Virginia,R,South,M,45,null
+Thomas Suozzi,representative,"Suozzi, Thomas",RepTomSuozzi,New York,D,Northeast,M,55,Catholic
+Tim Murphy,representative,"Murphy, Tim",RepTimMurphy,Pennsylvania,R,Northeast,M,65,Catholic
+Tom O'Halleran,representative,"O'Halleran, Tom",RepOHalleran,Arizona,D,West,M,71,Catholic
+Tom Reed,representative,"Reed, Tom",RepTomReed,New York,R,Northeast,M,46,Catholic
+Trey Hollingsworth,representative,"Hollingsworth, Trey",RepTrey,Indiana,R,Midwest,M,34,Protestant
+Val Demings,representative,"Demings, Val",RepValDemings,Florida,D,South,F,60,Protestant
+Vicente Gonzalez,representative,"Gonzalez, Vicente",RepGonzalez,Texas,D,South,M,50,Catholic
+Warren Davidson,representative,"Davidson, Warren",WarrenDavidson,Ohio,R,Midwest,M,47,Protestant
+William Keating,representative,"Keating, William",USRepKeating,Massachusetts,D,Northeast,M,65,Catholic
